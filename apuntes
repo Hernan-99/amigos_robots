@@ -1,0 +1,12 @@
+clasName:
+pa -> padding
+b--green -> borde verde
+bg-lightest-blue -> background 
+
+Las expresiones js llevan {} 
+por ejemplo:
+
+props.nombre => {props.nombre}
+
+cuando usamos template strings
+{`https://robohash.org/hernan?200x200`}
